@@ -35,12 +35,12 @@
 ## 📊 GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imianw/imianw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imianw/imianw/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake.svg">
 </picture>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veeblue&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imianw&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600)
 
 ## 📫 Contact
 
