@@ -44,7 +44,7 @@
 
 ## 📫 Contact
 
-[![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-9966ff?logo=blog)](https://blog.veeblue.com)
+[![Blog](https://img.shields.io/badge/Blog-veeblue.com-9966ff?logo=blog)](https://veeblue.com)
 [![Email](https://img.shields.io/badge/Email-yee@veeblue.com-31a8ff?logo=email)](mailto:yee@veeblue.com)
 
 ---
